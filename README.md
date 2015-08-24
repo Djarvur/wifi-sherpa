@@ -1,5 +1,6 @@
+# wifi-sherpa
 
-all-in-one wifi hotspot controller
+## all-in-one wifi hotspot controller
 
 Sherpa is just-another-one wifi hot-spot access point.
 
@@ -11,5 +12,4 @@ Do not forget to read the License agreement
 
 Не забудьте прочесть Лицензионное соглащение
 
-# wifi-sherpa
 Automatically exported from code.google.com/p/wifi-sherpa
